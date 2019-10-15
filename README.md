@@ -23,6 +23,7 @@ You are tasked with taking that string of characters and converting it to an arr
 
 ## A Step Further
 Going a step further, create a user interface for your app that takes in the scores one at a time, creates the string to pass into your converter, then displays the scores for each roll.
+<hr>
 
 # Level 2
 Now that you have an array of scores (or if you started here we’ll make one up) we’re going to calculate the total score. Remember that each strike receives a bonus of the next the number of pins knocked down in the next two rolls. So an input of [10, 1, 1, 5, 5, 1, 1] would return the score 27.
@@ -31,6 +32,7 @@ To combine Level 1 and 2 take in the string of raw bowling data input string of 
 
 ## A Step Further
 Going a step further calculate the total score at each frame and return an array of ten frames with the last frame being the total game score.
+<hr>
 
 # Level 3
 Create a user interface that resembles a bowling score sheet allowing multiple users to input scores as if they were putting them into the score sheet. Then have the application calculate and display the total score per frame dynamically as data is input. Compare scores with multiple users to create a leader board and have the app identify the winner once all scores are entered.
