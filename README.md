@@ -20,3 +20,5 @@ cd the-black-codes-hack-1
 - [Casino Night](casino-night.md)
 - [Church Directory](church-directory.md)
 - [Grocery List](grocery-list.md)
+
+The challenges above were taken from [Developer Launchpad](https://www.developerlaunchpad.com/)
